@@ -4,3 +4,5 @@ Multi-line description of commit,
 feel free to be detailed.
 
 [Ticket: X]
+
+this is the one i want to change to understand the concept of committing a message.
